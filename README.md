@@ -1,17 +1,16 @@
-## Hi there 👋
+## <p align="center"> Hi Folks! 👋 </p>
 
-- 🌱 I’m currently learning Laravel + Blade
-<!--
-**gianmnf/gianmnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hey there! I'm a fullstack developer with 4+ years of experience.
+  <br>
+  Focused on learning something new everyday and growing along the process.
+</p>
 
-Here are some ideas to get you started:
+## 🚀 What I'm currently learning: 
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools and Technologies:
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,cs,gitlab,java,react,nestjs,nextjs,vue,windows,arch)](https://skillicons.dev)<br><br>
+
+## 👥 Projects and Initiatives:
+- I've developed a cold room monitoring system from the ground up using React.js and Nest.js, owning nearly all back-end development. Delivered real-time temperature tracking that reduced spoilage risks and increased visibility into vegetable loads.
